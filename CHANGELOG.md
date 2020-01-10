@@ -1,3 +1,22 @@
+## [6.3.2](https://github.com/NativeScript/NativeScript/compare/6.3.1...6.3.2) (2019-12-20)
+
+
+### Bug Fixes
+
+* check is disposed fragment is in the FragmentManager ([#8201](https://github.com/NativeScript/NativeScript/issues/8201)) ([4b00376](https://github.com/NativeScript/NativeScript/commit/4b00376))
+* handle fake attach after FragMgr is destroyed ([#8200](https://github.com/NativeScript/NativeScript/issues/8200)) ([d1858f8](https://github.com/NativeScript/NativeScript/commit/d1858f8))
+
+
+
+## [6.3.1](https://github.com/NativeScript/NativeScript/compare/6.3.0...6.3.1) (2019-12-16)
+
+
+### Bug Fixes
+
+* null reference exception in view.android.onUnloaded ([#8153](https://github.com/NativeScript/NativeScript/issues/8153)) ([da639f2](https://github.com/NativeScript/NativeScript/commit/da639f2))
+
+
+
 # [6.3.0](https://github.com/NativeScript/NativeScript/compare/6.2.2...6.3.0) (2019-12-06)
 
 
